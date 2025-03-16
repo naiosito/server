@@ -1,0 +1,13 @@
+{
+  "phase_1_day_range_min": 0,
+  "phase_1_day_range_max": 2,
+  "phase_2_day_range_min": 3,
+  "phase_2_day_range_max": 6,
+  "phase_3_day_range_min": 7,
+  "phase_3_day_range_max": 11,
+  "phase_4_day_range_min": 12,
+  "phase_4_day_range_max": 17,
+  "phase_5_day_range_min": 18,
+  "phase_5_day_range_max": 29,
+  "phase_6_day": 30
+}
