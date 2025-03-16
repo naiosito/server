@@ -1082,3 +1082,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Mar2025 00:50:31.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Mar2025 00:52:42.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Successfully filled 36 block(s)]
 [16Mar2025 00:53:40.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Successfully filled 36 block(s)]
+[16Mar2025 00:55:31.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 00:55:31.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 00:56:29.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Spectator Mode]
+[16Mar2025 00:57:11.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Survival Mode]
+[16Mar2025 00:57:16.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Creative Mode]
+[16Mar2025 00:57:17.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=318, y=65, z=1} BlockPos{x=318, y=65, z=2}
+[16Mar2025 01:00:31.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 01:00:31.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 01:00:45.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Day 1
+[16Mar2025 01:05:31.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 01:05:31.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 01:06:44.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Survival Mode]
+[16Mar2025 01:06:48.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Creative Mode]
+[16Mar2025 01:08:08.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Spectator Mode]
+[16Mar2025 01:08:12.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Survival Mode]
+[16Mar2025 01:08:14.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Creative Mode]
+[16Mar2025 01:08:26.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Spectator Mode]
+[16Mar2025 01:08:27.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Creative Mode]
+[16Mar2025 01:08:31.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Spectator Mode]
+[16Mar2025 01:08:39.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Creative Mode]
+[16Mar2025 01:09:12.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Spectator Mode]
+[16Mar2025 01:09:16.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Survival Mode]
+[16Mar2025 01:09:20.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Spectator Mode]
+[16Mar2025 01:09:26.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [naiositoss: Set own game mode to Creative Mode]
