@@ -59,3 +59,15 @@
 [18:57:53] [Server thread/INFO]: dylanve issued server command: /fill -1031 63 -1095
 [18:58:05] [Server thread/INFO]: dylanve issued server command: /fill -1031 63 -1095 -1036 69 -1100 air
 [18:58:05] [Server thread/INFO]: [dylanve: Successfully filled 90 block(s)]
+[18:58:26] [Server thread/INFO]: dylanve has made the advancement [Hot Stuff]
+[18:59:03] [Server thread/INFO]: dylanve issued server command: /setworldspawn
+[18:59:03] [Server thread/INFO]: [dylanve: Set the world spawn point to -1028, 139, -1084 [0.0]]
+[18:59:04] [Server thread/INFO]: dylanve issued server command: /gamemode survival
+[18:59:04] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
+[18:59:12] [Server thread/INFO]: dylanve issued server command: /kill
+[18:59:12] [Server thread/INFO]: dylanve was killed
+[18:59:12] [Server thread/INFO]: [dylanve: Killed dylanve]
+[18:59:20] [Server thread/INFO]: dylanve issued server command: /gamemode creative
+[18:59:20] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
+[19:00:07] [Server thread/INFO]: dylanve lost connection: Disconnected
+[19:00:07] [Server thread/INFO]: dylanve left the game
