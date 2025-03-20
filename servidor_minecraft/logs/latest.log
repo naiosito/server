@@ -113,3 +113,58 @@
 [19:19:10] [Server thread/INFO]: [dylanve: Gave 1 [Water Bucket] to dylanve]
 [19:19:29] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:water_bucket
 [19:19:29] [Server thread/INFO]: [dylanve: Gave 1 [Water Bucket] to dylanve]
+[19:19:35] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:19:35] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:19:36] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:19:36] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:19:37] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:19:37] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:19:37] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:19:37] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:19:38] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:19:38] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:19:46] [Server thread/INFO]: dylanve fell from a high place
+[19:20:48] [Server thread/INFO]: dylanve issued server command: /gamemode creative
+[19:20:48] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
+[19:20:51] [Server thread/INFO]: dylanve has made the advancement [Cover Me with Diamonds]
+[19:20:54] [Server thread/INFO]: dylanve issued server command: /gamemode survival
+[19:20:54] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
+[19:21:24] [Server thread/INFO]: dylanve issued server command: /gamemode creative
+[19:21:24] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
+[19:21:26] [Server thread/INFO]: dylanve issued server command: /gamemode survival
+[19:21:26] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
+[19:21:28] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:21:28] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:21:33] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:21:33] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:21:34] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:21:34] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:21:35] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:21:35] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:21:35] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:21:35] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:21:35] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:21:35] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:21:36] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:21:36] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:21:36] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
+[19:21:36] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
+[19:22:03] [Server thread/INFO]: dylanve has made the advancement [Acquire Hardware]
+[19:22:48] [Server thread/INFO]: dylanve has made the advancement [Monster Hunter]
+[19:22:57] [Server thread/INFO]: dylanve issued server command: /gamemode creative
+[19:22:57] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
+[19:23:33] [Server thread/INFO]: dylanve issued server command: /gamemode survival
+[19:23:33] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
+[19:23:51] [Server thread/INFO]: dylanve issued server command: /gamemode creative
+[19:23:51] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
+[19:24:41] [Server thread/INFO]: dylanve issued server command: /gamemode survival
+[19:24:41] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
+[19:25:31] [Server thread/INFO]: dylanve issued server command: /gamemode creative
+[19:25:31] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
+[19:25:38] [Server thread/INFO]: dylanve issued server command: /gamemode survival
+[19:25:38] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
+[19:26:00] [Server thread/INFO]: dylanve issued server command: /gamemode creative
+[19:26:00] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
+[19:26:16] [Server thread/INFO]: dylanve lost connection: Disconnected
+[19:26:16] [Server thread/INFO]: dylanve left the game
+[19:28:02] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/2532, uuid='c2fa1043-29c0-4870-9411-7b3515f860e6', l='ServerLevel[world]', x=-1078.70, y=22.00, z=-1067.76, cpos=[-68, -67], tl=38868, v=true] died, message: 'Leatherworker hit the ground too hard'
