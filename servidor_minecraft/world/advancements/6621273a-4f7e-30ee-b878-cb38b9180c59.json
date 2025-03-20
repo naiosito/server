@@ -7,9 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-03-20 19:12:35 +0000",
       "minecraft:cherry_grove": "2025-03-20 18:52:21 +0000",
+      "minecraft:beach": "2025-03-20 19:16:10 +0000",
       "minecraft:river": "2025-03-20 18:53:58 +0000",
       "minecraft:stony_shore": "2025-03-20 18:53:31 +0000",
+      "minecraft:cold_ocean": "2025-03-20 19:14:19 +0000",
+      "minecraft:snowy_beach": "2025-03-20 19:16:14 +0000",
       "minecraft:meadow": "2025-03-20 18:52:41 +0000",
       "minecraft:plains": "2025-03-20 18:48:57 +0000"
     },
@@ -21,21 +25,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-03-20 18:57:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-03-20 18:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-03-20 18:59:07 +0000"
     },
     "done": true
   },
@@ -45,21 +37,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-03-20 18:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-03-20 18:58:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-03-20 18:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-20 18:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-20 18:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-20 18:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 18:57:39 +0000"
     },
     "done": true
   },
@@ -87,12 +157,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-20 18:57:39 +0000"
@@ -105,33 +169,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 18:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 18:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 18:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 18:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 18:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 18:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 18:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 18:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-20 18:58:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-03-20 18:58:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-03-20 18:57:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-20 18:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
     },
     "done": true
   },
@@ -147,87 +247,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-03-20 18:57:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-03-20 18:57:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-20 18:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-03-20 18:59:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-03-20 18:59:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-03-20 18:57:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-03-20 18:57:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-03-20 18:59:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-03-20 18:57:39 +0000"
     },
     "done": true
   },
@@ -243,21 +265,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-03-20 18:57:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-20 18:58:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
+      "has_andesite": "2025-03-20 18:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-20 18:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 18:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 18:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 18:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-03-20 18:59:07 +0000"
     },
     "done": true
   },
@@ -267,25 +313,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-03-20 18:57:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-20 18:59:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
+  "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "has_cobblestone": "2025-03-20 18:57:39 +0000"
+      "in_water": "2025-03-20 18:59:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 18:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-20 18:59:07 +0000"
     },
@@ -297,51 +343,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-03-20 18:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-03-20 18:57:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-03-20 18:57:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-03-20 18:59:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-03-20 18:59:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-03-20 18:59:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "has_stone": "2025-03-20 18:57:32 +0000"
+      "elytra": "2025-03-20 19:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-20 19:12:30 +0000"
     },
     "done": true
   },
