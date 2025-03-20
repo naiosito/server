@@ -1,0 +1,25 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-20 18:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-20 18:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cherry_grove": "2025-03-20 18:52:21 +0000",
+      "minecraft:river": "2025-03-20 18:53:58 +0000",
+      "minecraft:stony_shore": "2025-03-20 18:53:31 +0000",
+      "minecraft:meadow": "2025-03-20 18:52:41 +0000",
+      "minecraft:plains": "2025-03-20 18:48:57 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
