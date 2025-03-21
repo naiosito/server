@@ -131,3 +131,13 @@
 [18:31:22] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
 [18:31:22] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
 [18:36:25] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/2831, uuid='07c7748c-ecce-489a-8952-3eca4abbf1f4', l='ServerLevel[world]', x=99922.62, y=-8.00, z=10098.65, cpos=[6245, 631], tl=409, v=true] died: Skeletal Knight suffocated in a wall
+[18:40:17] [Server thread/INFO]: naiositoss issued server command: /gamemode survival
+[18:40:17] [Server thread/INFO]: [naiositoss: Set own game mode to Survival Mode]
+[18:42:07] [Server thread/INFO]: naiositoss lost connection: Disconnected
+[18:42:07] [Server thread/INFO]: naiositoss left the game
+[18:42:24] [User Authenticator #1/INFO]: UUID of player naiositoss is 09bf5cb3-cab3-3a2c-b19b-9dd0e7efeaa0
+[18:42:32] [Server thread/INFO]: naiositoss joined the game
+[18:42:32] [Server thread/INFO]: naiositoss[/127.206.15.85:43475] logged in with entity id 3241 at ([world]99891.63865343647, 39.0, 10076.43189476276)
+[18:43:21] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
+[18:43:21] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
+[18:46:54] [Server thread/INFO]: naiositoss has made the advancement [Hot Stuff]
