@@ -149,3 +149,28 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:34:29] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
 [20:34:33] [Server thread/INFO]: naiositoss issued server command: /gamemode survival
 [20:34:33] [Server thread/INFO]: [naiositoss: Set own game mode to Survival Mode]
+[20:37:58] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
+[20:37:58] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
+[20:39:30] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/1870, uuid='9a3afdaa-33d7-4a7e-a906-9c9e00615b3b', l='ServerLevel[world]', x=99884.88, y=43.00, z=10053.50, cpos=[6242, 628], tl=452, v=true] died: Skeletal Knight suffocated in a wall
+[20:40:01] [Server thread/INFO]: naiositoss issued server command: /gamemode survival
+[20:40:01] [Server thread/INFO]: [naiositoss: Set own game mode to Survival Mode]
+[20:40:07] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/2076, uuid='02f3c762-0768-4b3a-b924-3dbff1a39a30', l='ServerLevel[world]', x=99934.50, y=38.00, z=10077.50, cpos=[6245, 629], tl=396, v=true] died: Skeletal Knight suffocated in a wall
+[20:40:11] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
+[20:40:11] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
+[20:40:16] [Server thread/INFO]: naiositoss issued server command: /gamemode survival
+[20:40:16] [Server thread/INFO]: [naiositoss: Set own game mode to Survival Mode]
+[20:42:21] [Server thread/INFO]: naiositoss was slain by Zombie
+[20:44:58] [Server thread/INFO]: naiositoss drowned
+[20:45:03] [Server thread/INFO]: naiositoss issued server command: /time set day
+[20:45:03] [Server thread/INFO]: [naiositoss: Set the time to 1000]
+[20:45:08] [Server thread/INFO]: naiositoss issued server command: /weather clear
+[20:45:08] [Server thread/INFO]: [naiositoss: Set the weather to clear]
+[20:45:19] [Server thread/INFO]: naiositoss lost connection: Disconnected
+[20:45:19] [Server thread/INFO]: naiositoss left the game
+[20:46:16] [User Authenticator #1/INFO]: UUID of player naiositoss is 09bf5cb3-cab3-3a2c-b19b-9dd0e7efeaa0
+[20:46:23] [Server thread/INFO]: naiositoss joined the game
+[20:46:23] [Server thread/INFO]: naiositoss[/127.206.15.85:55151] logged in with entity id 2766 at ([world]99868.5, 101.0, 10089.5)
+[20:46:24] [User Authenticator #1/INFO]: UUID of player dylanve is 6621273a-4f7e-30ee-b878-cb38b9180c59
+[20:46:43] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/2768, uuid='5529e3b5-b64e-4f1d-9114-657ddc47167c', l='ServerLevel[world]', x=99900.50, y=-7.00, z=10100.50, cpos=[6243, 631], tl=392, v=true] died: Skeletal Knight suffocated in a wall
+[20:46:50] [Server thread/INFO]: dylanve joined the game
+[20:46:50] [Server thread/INFO]: dylanve[/127.206.15.85:34465] logged in with entity id 2776 at ([world]99857.5, 94.0, 10083.5)
