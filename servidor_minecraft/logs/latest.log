@@ -117,3 +117,12 @@
 [18:11:49] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
 [18:11:49] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
 [18:12:37] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/696, uuid='ba998215-e7b8-4666-8b2f-637892021236', l='ServerLevel[world]', x=99862.50, y=-1.00, z=10137.50, cpos=[6241, 633], tl=498, v=true] died: Skeletal Knight suffocated in a wall
+[18:21:05] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/1252, uuid='9e44d361-530b-455e-9683-5a6bb11539aa', l='ServerLevel[world]', x=99919.50, y=29.00, z=10064.50, cpos=[6244, 629], tl=506, v=true] died: Skeletal Knight suffocated in a wall
+[18:23:38] [Server thread/INFO]: naiositoss issued server command: /gamemode survival
+[18:23:38] [Server thread/INFO]: [naiositoss: Set own game mode to Survival Mode]
+[18:23:49] [Server thread/INFO]: [@: Showing new title for naiositoss]
+[18:23:49] [Server thread/INFO]: [@: Summoned new Warden]
+[18:23:49] [Server thread/INFO]: [@: Showing new subtitle for naiositoss]
+[18:25:53] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/1619, uuid='e3c8eece-ab8d-4c7f-a2f5-086e12d82dfd', l='ServerLevel[world]', x=99894.52, y=-36.00, z=10080.48, cpos=[6243, 630], tl=405, v=true] died: Skeletal Knight suffocated in a wall
+[18:27:21] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
+[18:27:21] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
