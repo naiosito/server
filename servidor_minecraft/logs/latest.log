@@ -2925,3 +2925,12 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:07:44] [Server thread/INFO]: [naiositoss: Set own game mode to Spectator Mode]
 [20:07:53] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
 [20:07:53] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
+[20:11:01] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/23437, uuid='48f663c5-ae21-4267-8e7d-c544fab3225a', l='ServerLevel[world]', x=99954.50, y=-37.00, z=10103.50, cpos=[6247, 631], tl=502, v=true] died: Skeletal Knight suffocated in a wall
+[20:16:01] [Server thread/INFO]: naiositoss issued server command: /gamemode spectator
+[20:16:01] [Server thread/INFO]: [naiositoss: Set own game mode to Spectator Mode]
+[20:16:03] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
+[20:16:03] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
+[20:17:39] [Server thread/INFO]: naiositoss issued server command: /gamemode spectator
+[20:17:39] [Server thread/INFO]: [naiositoss: Set own game mode to Spectator Mode]
+[20:17:43] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
+[20:17:43] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
