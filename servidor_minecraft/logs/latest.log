@@ -215,3 +215,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:05:55] [Async Chat Thread - #0/INFO]: [Not Secure] <naiositoss> z
 [21:05:55] [Async Chat Thread - #0/INFO]: [Not Secure] <naiositoss> z
 [21:07:09] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/5906, uuid='b6aed95a-330c-4f61-b698-27332f4ed721', l='ServerLevel[world]', x=100202.50, y=24.00, z=10040.50, cpos=[6262, 627], tl=404, v=true] died: Skeletal Knight suffocated in a wall
+[21:13:06] [Async Chat Thread - #2/INFO]: [Not Secure] <naiositoss> z
+[21:13:10] [Server thread/INFO]: naiositoss issued server command: /tp dylanve naiositoss
+[21:13:10] [Server thread/INFO]: [naiositoss: Teleported dylanve to naiositoss]
