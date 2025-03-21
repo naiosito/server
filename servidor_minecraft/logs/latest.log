@@ -174,3 +174,21 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:46:43] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/2768, uuid='5529e3b5-b64e-4f1d-9114-657ddc47167c', l='ServerLevel[world]', x=99900.50, y=-7.00, z=10100.50, cpos=[6243, 631], tl=392, v=true] died: Skeletal Knight suffocated in a wall
 [20:46:50] [Server thread/INFO]: dylanve joined the game
 [20:46:50] [Server thread/INFO]: dylanve[/127.206.15.85:34465] logged in with entity id 2776 at ([world]99857.5, 94.0, 10083.5)
+[20:48:20] [Server thread/INFO]: dylanve lost connection: Disconnected
+[20:48:20] [Server thread/INFO]: dylanve left the game
+[20:48:54] [Server thread/INFO]: naiositoss issued server command: /skinsrestorer applyskin dylanve
+[20:50:19] [Server thread/INFO]: naiositoss issued server command: /skinsrestorer applyskin -random
+[20:50:27] [Server thread/INFO]: naiositoss issued server command: /skinsrestorer applyskin
+[20:50:35] [Server thread/INFO]: naiositoss issued server command: /skinsrestorer help
+[20:50:46] [Server thread/INFO]: naiositoss issued server command: /skinsrestorer createcustom dylanve
+[20:50:50] [Server thread/INFO]: naiositoss issued server command: /skinsrestorer createcustom dylanve dylanve
+[20:51:52] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
+[20:51:52] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
+[20:51:57] [Server thread/INFO]: naiositoss issued server command: /gamemode survival
+[20:51:57] [Server thread/INFO]: [naiositoss: Set own game mode to Survival Mode]
+[20:52:54] [User Authenticator #2/INFO]: UUID of player dylanve is 6621273a-4f7e-30ee-b878-cb38b9180c59
+[20:52:56] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/3464, uuid='22e29763-489b-4748-b818-83bb9e23966b', l='ServerLevel[world]', x=99789.50, y=7.00, z=10097.50, cpos=[6236, 631], tl=510, v=true] died: Skeletal Knight suffocated in a wall
+[20:53:16] [Server thread/INFO]: dylanve joined the game
+[20:53:16] [Server thread/INFO]: dylanve[/127.206.15.85:43693] logged in with entity id 3523 at ([world]99860.49120667305, 93.0, 10086.207217611403)
+[20:54:45] [Server thread/INFO]: naiositoss issued server command: /time set day
+[20:54:45] [Server thread/INFO]: [naiositoss: Set the time to 1000]
