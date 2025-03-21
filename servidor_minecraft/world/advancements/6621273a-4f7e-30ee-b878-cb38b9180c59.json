@@ -7,9 +7,64 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cherry_grove": "2025-03-21 20:46:51 +0000"
+      "minecraft:cherry_grove": "2025-03-21 20:46:51 +0000",
+      "minecraft:plains": "2025-03-21 20:57:23 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-21 21:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-21 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-21 21:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-21 21:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-21 21:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-21 21:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-03-21 20:58:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-03-21 21:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-21 20:58:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3700
 }

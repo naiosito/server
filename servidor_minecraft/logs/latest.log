@@ -192,3 +192,26 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:53:16] [Server thread/INFO]: dylanve[/127.206.15.85:43693] logged in with entity id 3523 at ([world]99860.49120667305, 93.0, 10086.207217611403)
 [20:54:45] [Server thread/INFO]: naiositoss issued server command: /time set day
 [20:54:45] [Server thread/INFO]: [naiositoss: Set the time to 1000]
+[20:58:23] [Server thread/INFO]: naiositoss issued server command: /tp dylanve naiositoss
+[20:58:23] [Server thread/INFO]: [naiositoss: Teleported dylanve to naiositoss]
+[20:58:25] [Server thread/INFO]: naiositoss issued server command: /tp dylanve naiositoss
+[20:58:25] [Server thread/INFO]: [naiositoss: Teleported dylanve to naiositoss]
+[20:58:35] [Server thread/INFO]: naiositoss issued server command: /tp dylanve naiositoss
+[20:58:35] [Server thread/INFO]: [naiositoss: Teleported dylanve to naiositoss]
+[20:58:42] [Server thread/INFO]: naiositoss issued server command: /tp dylanve naiositoss
+[20:58:42] [Server thread/INFO]: [naiositoss: Teleported dylanve to naiositoss]
+[20:59:00] [Server thread/INFO]: naiositoss issued server command: /tp dylanve naiositoss
+[20:59:00] [Server thread/INFO]: [naiositoss: Teleported dylanve to naiositoss]
+[20:59:32] [Server thread/INFO]: naiositoss issued server command: /tp dylanve naiositoss
+[20:59:32] [Server thread/INFO]: [naiositoss: Teleported dylanve to naiositoss]
+[20:59:56] [Server thread/INFO]: naiositoss issued server command: /tp dylanve naiositoss
+[20:59:56] [Server thread/INFO]: [naiositoss: Teleported dylanve to naiositoss]
+[21:03:02] [Server thread/INFO]: naiositoss issued server command: /tp dylanve naiositoss
+[21:03:02] [Server thread/INFO]: [naiositoss: Teleported dylanve to naiositoss]
+[21:03:54] [Server thread/INFO]: naiositoss has made the advancement [Acquire Hardware]
+[21:05:51] [Server thread/INFO]: dylanve has made the advancement [Sweet Dreams]
+[21:05:53] [Async Chat Thread - #0/INFO]: [Not Secure] <naiositoss> zZ
+[21:05:53] [Async Chat Thread - #0/INFO]: [Not Secure] <naiositoss> z
+[21:05:55] [Async Chat Thread - #0/INFO]: [Not Secure] <naiositoss> z
+[21:05:55] [Async Chat Thread - #0/INFO]: [Not Secure] <naiositoss> z
+[21:07:09] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/5906, uuid='b6aed95a-330c-4f61-b698-27332f4ed721', l='ServerLevel[world]', x=100202.50, y=24.00, z=10040.50, cpos=[6262, 627], tl=404, v=true] died: Skeletal Knight suffocated in a wall
