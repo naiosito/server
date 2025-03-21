@@ -957,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2025-03-21 19:13:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-03-21 18:46:54 +0000"
