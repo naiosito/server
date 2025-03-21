@@ -22,13 +22,13 @@ advancements:
   disabled:
   - minecraft:story/disabled
 settings:
-  player-shuffle: 0
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
   save-user-cache-on-stop-only: false
   sample-count: 12
   bungeecord: false
+  player-shuffle: 0
   user-cache-size: 1000
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
@@ -43,18 +43,6 @@ settings:
   log-villager-deaths: true
   log-named-deaths: true
   debug: false
-commands:
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  log: true
-  tab-complete: 0
-  send-namespaced: true
 world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
@@ -62,15 +50,13 @@ world-settings:
     simulation-distance: default
     thunder-chance: 100000
     merge-radius:
-      item: 2.5
       exp: 3.0
+      item: 2.5
     mob-spawn-range: 8
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
-    zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
-    enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     end-portal-sound-radius: 0
     hanging-tick-frequency: 100
@@ -153,6 +139,7 @@ world-settings:
     seed-portal: 34222645
     seed-ancientcity: 20083232
     seed-trailruins: 83469867
+    seed-trialchambers: 94251327
     seed-buriedtreasure: 10387320
     seed-mineshaft: default
     seed-stronghold: default
@@ -168,7 +155,23 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    zombie-aggressive-towards-villager: true
+    enable-zombie-pigmen-portal-spawns: true
     verbose: false
+  worldeditregentempworld:
+    verbose: false
+commands:
+  log: true
+  tab-complete: 0
+  send-namespaced: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
 players:
   disable-saving: false
 config-version: 12

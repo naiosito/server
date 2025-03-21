@@ -1,170 +1,119 @@
-[18:48:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:48:33] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[18:48:34] [ServerMain/INFO]: Loaded 7 recipes
-[18:48:35] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[18:48:35] [Server thread/INFO]: Loading properties
-[18:48:35] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[18:48:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:48:35] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:48:35] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[18:48:35] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[18:07:13] [ServerMain/WARN]: resource-pack-id missing, using default of a45cc15d-b921-3834-964a-813c9cc83ab4
+[18:07:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:07:16] [ServerMain/INFO]: Loaded 1174 recipes
+[18:07:16] [ServerMain/INFO]: Loaded 1271 advancements
+[18:07:16] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:07:16] [Server thread/INFO]: Loading properties
+[18:07:16] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[18:07:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:07:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:07:18] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:48:36] [Server thread/INFO]: Default game type: SURVIVAL
-[18:48:36] [Server thread/INFO]: Generating keypair
-[18:48:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:48:36] [Server thread/INFO]: Using epoll channel type
-[18:48:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:48:36] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:48:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:48:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:48:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:48:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:48:36] [Server thread/INFO]: Preparing level "world"
-[18:48:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:48:46] [Server thread/INFO]: Time elapsed: 151 ms
-[18:48:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:48:46] [Server thread/INFO]: Time elapsed: 145 ms
-[18:48:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:48:46] [Server thread/INFO]: Time elapsed: 59 ms
-[18:48:46] [Server thread/INFO]: Running delayed init tasks
-[18:48:46] [Server thread/INFO]: Done (11.708s)! For help, type "help"
-[18:48:46] [Server thread/INFO]: Timings Reset
-[18:48:56] [User Authenticator #0/INFO]: UUID of player dylanve is 6621273a-4f7e-30ee-b878-cb38b9180c59
-[18:48:56] [Server thread/INFO]: dylanve joined the game
-[18:48:56] [Server thread/INFO]: dylanve[/127.206.15.85:53701] logged in with entity id 21 at ([world]10.5, 65.0, 191.5)
-[18:50:38] [Server thread/INFO]: Made dylanve a server operator
-[18:50:45] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[18:50:45] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[18:52:16] [Server thread/INFO]: dylanve issued server command: /locate biome minecraft:cherry_grove
-[18:52:16] [Server thread/INFO]: Locating element minecraft:cherry_grove took 204 ms
-[18:52:18] [Server thread/INFO]: dylanve issued server command: /tp @s -756 81 -625
-[18:52:21] [Server thread/INFO]: [dylanve: Teleported dylanve to -755.500000, 81.000000, -624.500000]
-[18:52:34] [Server thread/INFO]: dylanve issued server command: /gamemode spectator
-[18:52:34] [Server thread/INFO]: [dylanve: Set own game mode to Spectator Mode]
-[18:52:59] [Server thread/INFO]: dylanve issued server command: /locate structure #minecraft:village
-[18:53:00] [Server thread/INFO]: Locating element #minecraft:village (minecraft:village_plains) took 1234 ms
-[18:53:03] [Server thread/INFO]: dylanve issued server command: /tp @s -1008 ~ -1072
-[18:53:05] [Server thread/INFO]: [dylanve: Teleported dylanve to -1007.500000, 133.124843, -1071.500000]
-[18:54:09] [Server thread/INFO]: dylanve lost connection: Disconnected
-[18:54:09] [Server thread/INFO]: dylanve left the game
-[18:56:24] [User Authenticator #1/INFO]: UUID of player dylanve is 6621273a-4f7e-30ee-b878-cb38b9180c59
-[18:56:24] [Server thread/INFO]: dylanve joined the game
-[18:56:24] [Server thread/INFO]: dylanve[/127.206.15.85:43045] logged in with entity id 2470 at ([world]-1102.173764673013, 111.65044133025866, -1202.163405833798)
-[18:57:21] [Server thread/INFO]: dylanve issued server command: /gamemode survival
-[18:57:21] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
-[18:57:28] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[18:57:28] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[18:57:39] [Server thread/INFO]: dylanve has made the advancement [Stone Age]
-[18:57:53] [Server thread/INFO]: dylanve issued server command: /fill -1031 63 -1095
-[18:58:05] [Server thread/INFO]: dylanve issued server command: /fill -1031 63 -1095 -1036 69 -1100 air
-[18:58:05] [Server thread/INFO]: [dylanve: Successfully filled 90 block(s)]
-[18:58:26] [Server thread/INFO]: dylanve has made the advancement [Hot Stuff]
-[18:59:03] [Server thread/INFO]: dylanve issued server command: /setworldspawn
-[18:59:03] [Server thread/INFO]: [dylanve: Set the world spawn point to -1028, 139, -1084 [0.0]]
-[18:59:04] [Server thread/INFO]: dylanve issued server command: /gamemode survival
-[18:59:04] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
-[18:59:12] [Server thread/INFO]: dylanve issued server command: /kill
-[18:59:12] [Server thread/INFO]: dylanve was killed
-[18:59:12] [Server thread/INFO]: [dylanve: Killed dylanve]
-[18:59:20] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[18:59:20] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[19:00:07] [Server thread/INFO]: dylanve lost connection: Disconnected
-[19:00:07] [Server thread/INFO]: dylanve left the game
-[19:12:15] [User Authenticator #2/INFO]: UUID of player dylanve is 6621273a-4f7e-30ee-b878-cb38b9180c59
-[19:12:15] [Server thread/INFO]: dylanve joined the game
-[19:12:15] [Server thread/INFO]: dylanve[/127.206.15.85:57427] logged in with entity id 3872 at ([world]-1009.9834090418856, 129.1124689302014, -977.5405152084093)
-[19:12:23] [Server thread/INFO]: dylanve issued server command: /gamemode spectator
-[19:12:23] [Server thread/INFO]: [dylanve: Set own game mode to Spectator Mode]
-[19:12:25] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[19:12:25] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[19:12:26] [Server thread/INFO]: dylanve issued server command: /gamemode spectator
-[19:12:26] [Server thread/INFO]: [dylanve: Set own game mode to Spectator Mode]
-[19:12:27] [Server thread/INFO]: dylanve issued server command: /gamemode survival
-[19:12:27] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
-[19:12:30] [Server thread/INFO]: dylanve has reached the goal [Postmortal]
-[19:12:44] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:12:44] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:12:52] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undyingW
-[19:12:55] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:12:55] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:13:47] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[19:13:47] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[19:13:56] [Server thread/INFO]: dylanve has reached the goal [Sky's the Limit]
-[19:14:00] [Server thread/INFO]: dylanve issued server command: /gamemode survival
-[19:14:00] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
-[19:14:16] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:14:16] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:14:20] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:14:20] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:14:21] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:14:21] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:14:21] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:14:21] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:17:50] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:17:50] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:17:53] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:17:53] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:18:30] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:18:30] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:18:32] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:18:32] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:19:10] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:water_bucket
-[19:19:10] [Server thread/INFO]: [dylanve: Gave 1 [Water Bucket] to dylanve]
-[19:19:29] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:water_bucket
-[19:19:29] [Server thread/INFO]: [dylanve: Gave 1 [Water Bucket] to dylanve]
-[19:19:35] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:19:35] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:19:36] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:19:36] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:19:37] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:19:37] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:19:37] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:19:37] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:19:38] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:19:38] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:19:46] [Server thread/INFO]: dylanve fell from a high place
-[19:20:48] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[19:20:48] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[19:20:51] [Server thread/INFO]: dylanve has made the advancement [Cover Me with Diamonds]
-[19:20:54] [Server thread/INFO]: dylanve issued server command: /gamemode survival
-[19:20:54] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
-[19:21:24] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[19:21:24] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[19:21:26] [Server thread/INFO]: dylanve issued server command: /gamemode survival
-[19:21:26] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
-[19:21:28] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:21:28] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:21:33] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:21:33] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:21:34] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:21:34] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:21:35] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:21:35] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:21:35] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:21:35] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:21:35] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:21:35] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:21:36] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:21:36] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:21:36] [Server thread/INFO]: dylanve issued server command: /give dylanve minecraft:totem_of_undying
-[19:21:36] [Server thread/INFO]: [dylanve: Gave 1 [Totem of Undying] to dylanve]
-[19:22:03] [Server thread/INFO]: dylanve has made the advancement [Acquire Hardware]
-[19:22:48] [Server thread/INFO]: dylanve has made the advancement [Monster Hunter]
-[19:22:57] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[19:22:57] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[19:23:33] [Server thread/INFO]: dylanve issued server command: /gamemode survival
-[19:23:33] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
-[19:23:51] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[19:23:51] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[19:24:41] [Server thread/INFO]: dylanve issued server command: /gamemode survival
-[19:24:41] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
-[19:25:31] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[19:25:31] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[19:25:38] [Server thread/INFO]: dylanve issued server command: /gamemode survival
-[19:25:38] [Server thread/INFO]: [dylanve: Set own game mode to Survival Mode]
-[19:26:00] [Server thread/INFO]: dylanve issued server command: /gamemode creative
-[19:26:00] [Server thread/INFO]: [dylanve: Set own game mode to Creative Mode]
-[19:26:16] [Server thread/INFO]: dylanve lost connection: Disconnected
-[19:26:16] [Server thread/INFO]: dylanve left the game
-[19:28:02] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/2532, uuid='c2fa1043-29c0-4870-9411-7b3515f860e6', l='ServerLevel[world]', x=-1078.70, y=22.00, z=-1067.76, cpos=[-68, -67], tl=38868, v=true] died, message: 'Leatherworker hit the ground too hard'
+[18:07:18] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[18:07:18] [Server thread/INFO]: Default game type: SURVIVAL
+[18:07:18] [Server thread/INFO]: Generating keypair
+[18:07:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:07:18] [Server thread/INFO]: Using epoll channel type
+[18:07:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:07:18] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[18:07:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[18:07:19] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/server/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[18:07:19] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
+[18:07:19] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10-beta-01+cb9fd58
+[18:07:19] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4346b4be]
+[18:07:19] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.8.1-${CI_COMMIT_SHORT_SHA}
+[18:07:19] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[18:07:19] [Server thread/INFO]: [MythicMobs] §x§f§f§0§0§0§0M§x§f§f§6§6§0§0y§x§f§f§c§c§0§0t§x§c§b§f§f§0§0h§x§6§5§f§f§0§0i§x§0§0§f§f§0§0c§x§0§0§f§f§6§6 §x§0§0§f§f§c§bE§x§0§0§c§b§f§fn§x§0§0§6§5§f§fa§x§0§0§0§0§f§fb§x§6§6§0§0§f§fl§x§c§c§0§0§f§fe§x§f§f§0§0§c§cd§x§f§f§0§0§6§6!
+[18:07:19] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
+[18:07:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:07:19] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
+[18:07:20] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[18:07:20] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.4.
+[18:07:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:07:21] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10-beta-01+cb9fd58
+[18:07:21] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:07:21] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:07:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[18:07:21] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[18:07:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:07:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:07:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:07:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:07:22] [Server thread/INFO]: Preparing level "world"
+[18:07:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:07:23] [Server thread/INFO]: Time elapsed: 259 ms
+[18:07:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:07:24] [Server thread/INFO]: Time elapsed: 841 ms
+[18:07:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:07:24] [Server thread/INFO]: Time elapsed: 39 ms
+[18:07:24] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.8.1-${CI_COMMIT_SHORT_SHA}
+[18:07:26] [Server thread/INFO]: [MythicMobs] Failed to parse class io.lumine.mythic.core.volatilecode.v1_20_R3.ai.goals.CreeperSwellGoal$MythicSwellGoal
+[18:07:26] [Server thread/INFO]: [MythicMobs] Failed to parse class io.lumine.mythic.core.volatilecode.v1_20_R3.ai.goals.LookAtTargetGoal$LookAtTarget
+[18:07:26] [Server thread/INFO]: [MythicMobs] Failed to parse class io.lumine.mythic.core.volatilecode.v1_20_R3.ai.goals.MeleeAttackGoal$ModifiedMeleeAttackGoal
+[18:07:26] [Server thread/INFO]: [MythicMobs] Failed to parse class io.lumine.mythic.core.volatilecode.v1_20_R3.ai.goals.MoveToBlockGoal$GoToBlockGoal
+[18:07:26] [Server thread/INFO]: [MythicMobs] Failed to parse class io.lumine.mythic.core.volatilecode.v1_20_R3.ai.goals.MoveToLavaGoal$StriderGoToLavaGoal
+[18:07:26] [Server thread/INFO]: [MythicMobs] Failed to parse class io.lumine.mythic.core.volatilecode.v1_20_R3.ai.goals.MoveToWaterGoal$TurtleGoToWaterGoal
+[18:07:26] [Server thread/INFO]: [MythicMobs] Failed to parse class io.lumine.mythic.core.volatilecode.v1_20_R3.ai.goals.SpiderAttackGoal$SpiderMeleeAttackGoal
+[18:07:26] [Server thread/INFO]: [MythicMobs] Failed to parse class io.lumine.mythic.core.volatilecode.v1_20_R3.ai.goals.ZombieAttackGoal$ZombieMeleeAttackGoal
+[18:07:27] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.4)...
+[18:07:27] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[18:07:27] [Server thread/INFO]: [MythicMobs] Base directory /workspaces/server/servidor_minecraft/plugins/MythicMobs/data
+[18:07:27] [Server thread/INFO]: [MythicMobs] Module directory /workspaces/server/servidor_minecraft/plugins/MythicMobs/data/worlds
+[18:07:29] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[18:07:29] [Server thread/INFO]: [MythicMobs] Loading Items...
+[18:07:29] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[18:07:29] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[18:07:29] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[18:07:29] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[18:07:29] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[18:07:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[18:07:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[18:07:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[18:07:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[18:07:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[18:07:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[18:07:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[18:07:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[18:07:29] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[18:07:29] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[18:07:29] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.8.1 ( build ${CI_COMMIT_SHORT_SHA} ) has been successfully loaded!
+[18:07:29] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
+[18:07:30] [Server thread/INFO]: Running delayed init tasks
+[18:07:30] [Server thread/INFO]: Done (13.210s)! For help, type "help"
+[18:07:30] [Server thread/INFO]: Timings Reset
+[18:11:23] [User Authenticator #0/INFO]: UUID of player naiositoss is 09bf5cb3-cab3-3a2c-b19b-9dd0e7efeaa0
+[18:11:34] [Server thread/INFO]: naiositoss joined the game
+[18:11:34] [Server thread/INFO]: naiositoss[/127.206.15.85:54587] logged in with entity id 200 at ([world]99860.93802712212, 39.0625, 10066.420963657516)
+[18:11:49] [Server thread/INFO]: naiositoss issued server command: /gamemode creative
+[18:11:49] [Server thread/INFO]: [naiositoss: Set own game mode to Creative Mode]
+[18:12:37] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/696, uuid='ba998215-e7b8-4666-8b2f-637892021236', l='ServerLevel[world]', x=99862.50, y=-1.00, z=10137.50, cpos=[6241, 633], tl=498, v=true] died: Skeletal Knight suffocated in a wall

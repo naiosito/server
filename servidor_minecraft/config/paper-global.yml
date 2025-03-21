@@ -12,7 +12,7 @@
 # Discord: https://discord.gg/papermc
 # Website: https://papermc.io/
 
-_version: 28
+_version: 29
 block-updates:
   disable-chorus-plant-updates: false
   disable-mushroom-block-updates: false
@@ -54,7 +54,6 @@ item-validation:
   resolve-selectors-in-books: false
 logging:
   deobfuscate-stacktraces: true
-  log-player-ip-addresses: true
 messages:
   kick:
     authentication-servers-down: <lang:multiplayer.disconnect.authservers_down>
@@ -96,7 +95,7 @@ proxies:
   proxy-protocol: false
   velocity:
     enabled: false
-    online-mode: false
+    online-mode: true
     secret: ''
 scoreboards:
   save-empty-scoreboard-teams: false
@@ -123,6 +122,8 @@ unsupported-settings:
   allow-headless-pistons: false
   allow-permanent-block-break-exploits: false
   allow-piston-duplication: false
+  allow-tripwire-disarming-exploits: false
+  allow-unsafe-end-portal-teleportation: false
   compression-format: ZLIB
   perform-username-validation: true
 watchdog:
