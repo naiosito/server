@@ -450,3 +450,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23:29:21] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of naiositoss accepted server config.
 [23:32:22] [Server thread/INFO]: naiositoss has made the advancement [Not Today, Thank You]
 [23:32:51] [Server thread/INFO]: naiositoss has made the advancement [Diamonds!]
+[23:45:04] [Server thread/INFO]: naiositoss has made the advancement [Best Friends Forever]
