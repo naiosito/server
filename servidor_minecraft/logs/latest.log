@@ -442,3 +442,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23:08:52] [Server thread/WARN]: UUID of added entity already exists: class_1451['Cat'/223, l='ServerLevel[world]', x=98052.53, y=74.00, z=100118.79]
 [23:15:37] [Server thread/INFO]: naiositoss was slain by Spider
 [23:15:38] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of naiositoss accepted server config.
+[23:18:59] [Server thread/INFO]: naiositoss has made the advancement [Isn't It Iron Pick]
+[23:28:54] [Server thread/INFO]: [naiositoss: Gave 1 [Lime Bed] to naiositoss]
+[23:28:59] [Server thread/INFO]: [Not Secure] <naiositoss> wZ
+[23:29:17] [Server thread/INFO]: [naiositoss: Made naiositosss no longer a server operator]
+[23:29:21] [Server thread/INFO]: [naiositoss: Made naiositoss no longer a server operator]
+[23:29:21] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of naiositoss accepted server config.
